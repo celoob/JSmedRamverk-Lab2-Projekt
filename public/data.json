@@ -1,0 +1,72 @@
+[
+  {
+    "name": "FC Caesars",
+    "image": "../src/assets/portfolio/portfolio1.png",
+    "description": "Uppdrag: Skapa en logotyp för ett fotbollslag.",
+    "tags": "logo, fun",
+    "year": 2019
+  },
+  {
+    "name": "Loob Consulting",
+    "image": "../src/assets/portfolio/portfolio2.png",
+    "description": "Uppdrag: Skapa en logotyp för en konsultfirma med fokus på sustainability.",
+    "tags": "logo, freelance",
+    "year": 2022
+  },
+  {
+    "name": "Project Birka",
+    "image": "../src/assets/portfolio/portfolio3.png",
+    "description": "Uppdrag: Projekt på Linnéuniversitetet i kursen Metoder för Interaktionsdesign II.",
+    "tags": "logo, university",
+    "year": 2015
+  },
+  {
+    "name": "EZA Rebrand",
+    "image": "../src/assets/portfolio/portfolio4.png",
+    "description": "Drafts på logotyper och name cards till en youtube channel.",
+    "tags": "freelance, fun",
+    "year": 2017
+  },
+  {
+    "name": "LinnéCloud",
+    "image": "../src/assets/portfolio/portfolio5.png",
+    "tags": "logo, university",
+    "description": "Logotyp till en lärplatform.",
+    "year": 2015
+  },
+  {
+    "name": "GetApp",
+    "image": "../src/assets/portfolio/portfolio6.png",
+    "description": "Logotyp till en mobilapp för ett projekt på Linnéuniversitetet.",
+    "tags": "logo, university",
+    "year": 2016
+  },
+  {
+    "name": "You Died.",
+    "image": "../src/assets/portfolio/portfolio7.png",
+    "description": "'For Fun' fan art",
+    "tags": "fun",
+    "year": 2020
+  },
+  {
+    "name": "Trash Battle 2015",
+    "image": "../src/assets/portfolio/portfolio8.png",
+    "description": "Uppdrag: Skapa en app till mellanstadie-elever med mål att göra sopsortering kul. Linnéuniversitetet.",
+    "tags": "website, university",
+    "year": 2015
+  },
+  {
+    "name": "Billbergh Banner",
+    "image": "../src/assets/portfolio/portfolio9.png",
+    "description": "Uppdrag: Skapa en banner till en youtube kanal som ger en inblick i vad för typ av content som hittas där.",
+    "tags": "logo, freelance, fun",
+    "year": 2021
+  },
+  {
+    "name": "Open Kalmar",
+    "image": "../src/assets/portfolio/portfolio10.png",
+    "description": "Uppdrag: Skapa en Webbplats till Kalmar kommun med fokus på data publicering.",
+    "tags": "website, university",
+    "year": 2015
+  }
+]
