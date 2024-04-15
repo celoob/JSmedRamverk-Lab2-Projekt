@@ -1,7 +1,7 @@
 [
   {
     "name": "FC Caesars",
-    "image": "../src/assets/portfolio/portfolio1.png",
+    "image": "../assets/portfolio/portfolio1.png",
     "description": "Uppdrag: Skapa en logotyp för ett fotbollslag.",
     "tags": "logo, fun",
     "year": 2019
