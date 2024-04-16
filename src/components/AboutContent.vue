@@ -51,7 +51,7 @@
   max-height: 48vh;
   margin-top: 4vh;
   margin-bottom: 4vh;
-  margin-left: 0.5vw;
+  margin-left: 1vw;
   border-radius: 50%;
 }
 
@@ -64,7 +64,7 @@
   text-align: left;
   background-color: #222222;
   color: #f1f1f1;
-  margin-right: 0.5vw;
+  margin-right: 1vw;
   position: relative;
   display: flex;
   flex-direction: column;
