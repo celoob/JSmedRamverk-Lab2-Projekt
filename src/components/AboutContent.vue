@@ -112,7 +112,7 @@
     border-top: 2px solid #1c1c1c;
   }
   .about-img {
-    width: 80vw;
+    max-width: 40vw;
     text-align: center;
     background-color: #f1f1f1;
   }
