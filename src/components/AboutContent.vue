@@ -42,13 +42,13 @@
 
 /* image */
 .about-img {
-  width: 50vw;
+  width: 40vw;
   text-align: center;
   background-color: #f1f1f1;
 }
 .about-wrapper img {
-  max-width: 48vw;
-  max-height: 48vh;
+  max-width: 30vw;
+  max-height: 30vh;
   margin-top: 4vh;
   margin-bottom: 4vh;
   margin-left: 1vw;
@@ -112,7 +112,7 @@
     border-top: 2px solid #1c1c1c;
   }
   .about-img {
-    max-width: 40vw;
+    width: 80vw;
     text-align: center;
     background-color: #f1f1f1;
   }
