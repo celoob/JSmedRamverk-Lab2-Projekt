@@ -16,7 +16,7 @@
       <h6>Generic bio courtesy of ChatGPT3.5.</h6>
     </div>
     <div id="about-img">
-      <img src="../assets/bild.png" alt="profilbild" />
+      <img src="../assets/bild.jpg" alt="profilbild" />
     </div>
   </article>
 </template>
